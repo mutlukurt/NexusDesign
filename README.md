@@ -1,5 +1,9 @@
 # 🪐 Nexus Design - Premium Cinematic Creative Agency Website
 
+[![Live Demo](https://img.shields.io/badge/demo-live-ff5a00?style=for-the-badge&logo=vercel)](https://nexus-design-five.vercel.app/)
+&nbsp;&nbsp;
+🔗 **Live Demo:** [nexus-design-five.vercel.app](https://nexus-design-five.vercel.app/)
+
 Nexus Design is a high-end, premium portfolio website built for a digital design and industrial engineering concept agency. The website features state-of-the-art cinematic transitions, interactive mouse-following physics, and immersive layouts designed to wow visitors at first glance.
 
 ---
